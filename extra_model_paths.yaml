@@ -40,8 +40,8 @@ a111:
 #     upscale_models: models/upscale_models/
 #     vae: models/vae/
 
-#other_ui:
+other_ui:
 #    base_path: path/to/ui
-#    checkpoints: models/checkpoints
+    checkpoints: /kaggle/input/ghostmix_v2.0.safetensors/pytorch/default/1
 #    gligen: models/gligen
 #    custom_nodes: path/custom_nodes
